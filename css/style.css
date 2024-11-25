@@ -19,6 +19,7 @@ main{
 
 .card img{
     width: 50px;
+    margin: -4px 5px -5px -5px;
 }
 
 .card h3{
@@ -57,8 +58,3 @@ main{
     flex-direction: column;
     
 }
-
-/*.front-row{
-    display: flex;
-    justify-content: center;
-}*/

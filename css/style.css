@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titolo{
+    color: rebeccapurple;
+}
+
+.card img{
+    width: 50px;
+}
+
+.card h2,h3{
+    font-size: 10px;
+    color: white;
+}
+
+.card p{
+    color: blue;
+}
+
+.card{
+    background-color: black;
+    padding: 5px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.date{
+    display: flex;
+    flex-direction: column;
+    
+}
